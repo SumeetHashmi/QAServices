@@ -132,7 +132,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-inner-pages {
-  background:white;
+  background:#EDEDED;
 }
 
 #header .logo {
@@ -515,6 +515,18 @@ right: 7.08%;
   margin: 10px 0 0 0;
   color:#003E9C;
   background:#FFFFFF;
+}
+.navbarbutton{
+  font-size: 16px;
+  color: #9D2727;
+  border-color: #9D2727;
+  border-radius: 20px;
+  padding: 7px 32px;
+  background-color: transparent;
+}
+.navbarbutton:hover {
+  color: white;
+  background-color: #9D2727;
 }
 
 #hero .btn-get-started:hover {
