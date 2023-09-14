@@ -105,7 +105,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #6bc1e9;
+  background: #9D2727;
   color: #fff;
 }
 
@@ -127,7 +127,7 @@ h6 {
 #header {
   transition: all 0.5s;
   z-index: 997;
-  padding: 15px 0;
+  padding: 0px 0;
 }
 
 #header.header-scrolled,
@@ -696,7 +696,7 @@ section {
   display: block;
   width: 40px;
   height: 3px;
-  background:#003E9C;
+  background:#9D2727;
   bottom: 0;
   left: calc(50% - 20px);
 }
@@ -1728,7 +1728,7 @@ text-align: center;
 }
 
 .contact .php-email-form button[type=submit] {
-  background:#003E9C;
+  background:#9D2727;
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -1743,16 +1743,26 @@ text-align: center;
   margin-left: 7rem;
   margin-right: 0rem;
 }
+.form_label{
+  font-size:18px;
+}
+.form_label{
+  font-size:18px;
+}
+.address_text{
+  font-size: 17px;
+  padding-top: 10px;
+}
 
 .address{
-  color: #003E9C;
+  color: #9D2727;
   border-bottom: 1px solid #ccc;
   margin-bottom: 20px;
   padding-bottom: 20px;
 /* background: linear-gradient(180deg, rgba(249, 189, 23, 0.0885417) 0%, #003E9C 46.35%, rgba(249, 189, 23, 0) 100%); */
 }
 .address:hover{
-  background-color: #003E9C !important;
+  background-color: #9D2727 !important;
   color: white;
  
 }
