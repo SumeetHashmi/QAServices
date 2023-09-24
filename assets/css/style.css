@@ -470,13 +470,13 @@ h6 {
   }
 }
 .herotext1{
-  font-size: 35px;padding-bottom: 25px;
+  font-size: 30px;padding-bottom: 25px;
 }
 @media (max-width: 500px) {
   .herotext1 {
-    font-size: 25px;
+    font-size: 21px;
     padding-bottom: 25px;
-    margin-top: -5vh;
+    margin-top: 0vh;
   }
 }
 .herotext2{
